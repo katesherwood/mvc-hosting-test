@@ -1,5 +1,5 @@
 <template>
-        <descriptor id="com.ducky.dummy.mvc"
+        <descriptor id="com.ducky.github.mvc"
                 name="Ducky dummy (github) MVC Project"
                 kind="template"
 		url="https://github.com/katesherwood/mvc-hosting-test/zipball/master"
