@@ -1,0 +1,12 @@
+<template>
+        <descriptor id="com.ducky.dummy.mvc"
+                name="Ducky dummy (github) MVC Project"
+                kind="template"
+                version="3.1.2">
+                <description>
+                        Ducky's dummy MVC project on github
+                </description>
+        </descriptor>
+        <project path="."/>
+        <json path="wizard.json"/>
+</template>
