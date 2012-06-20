@@ -8,6 +8,6 @@
                         Ducky's dummy MVC project on github
                 </description>
         </descriptor>
-        <project path="katesherwood-mvc-hosting-test-*/"/>
-        <json path="katesherwood-mvc-hosting-test-*/wizard.json"/>
+        <project path=""/>
+        <json path="wizard.json"/>
 </template>
