@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>mytld.mycompany</groupId>
 	<artifactId>myapp</artifactId>
-	<name>mvctest</name>
+	<name>projectName</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
