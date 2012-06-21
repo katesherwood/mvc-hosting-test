@@ -4,7 +4,7 @@
                 kind="template"
 		url="https://github.com/katesherwood/mvc-hosting-test/zipball/master"
 		requires="org.dummy.notthere.broken"
-                version="5.4.2">
+                version="5.4.3">
                 <description>
                         Ducky's dummy MVC project on github
                 </description>
