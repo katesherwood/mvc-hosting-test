@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Yo!
+	Yo! (version ${version})
 </h1>
 
 <P>  The time at ${locale}is ${serverTime}. </P>
