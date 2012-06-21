@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	Yo! (version ${version})
+	Yo! (version ${version} for ${locale})
 </h1>
 
-<P>  The time at ${locale}is ${serverTime}. </P>
+<P>  The time at the server is ${serverTime}. </P>
 </body>
 </html>
