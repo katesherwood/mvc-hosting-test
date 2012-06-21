@@ -2,13 +2,13 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Testing individual templates on github</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+	Yo!
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time at ${locale}is ${serverTime}. </P>
 </body>
 </html>
