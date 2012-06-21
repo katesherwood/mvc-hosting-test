@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		model.addAttribute("locale", locale.toString() );
-		model.addAttribute("version", "5.4.7" );
+		model.addAttribute("version", "5.4.8" );
 		
 		return "home";
 	}
