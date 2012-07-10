@@ -2,7 +2,7 @@
         <descriptor id="com.ducky.github.mvc"
                 name="Ducky dummy (github) MVC Project"
                 kind="template"
-		urlx="https://github.com/katesherwood/mvc-hosting-test/zipball/master"
+		url="https://github.com/katesherwood/mvc-hosting-test/zipball/master"
 		requiresbundle="org.dummy.notthere.broken"
                 version="5.4.10">
                 <description>
