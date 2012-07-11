@@ -1,4 +1,5 @@
-<template>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<descriptors>
         <descriptor id="com.mazzbrak.github.maps.pins"
                 name="Mazzbrak Mapping"
                 kind="template"
@@ -8,8 +9,6 @@
                         Mazzbrak Mapping pins example
                 </description>
         </descriptor>
-        <project path=""/>
-        <json path="wizard.json"/>
 
         <descriptor id="com.mazzbrak.github.maps.polygons"
                 name="Mazzbrak Mapping"
@@ -20,6 +19,4 @@
                         Mazzbrak Mapping polygons example
                 </description>
         </descriptor>
-        <project path=""/>
-        <json path="wizard.json"/>
-</template>
+</descriptors>

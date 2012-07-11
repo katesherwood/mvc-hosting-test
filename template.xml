@@ -1,13 +1,11 @@
 <template>
         <descriptor id="com.mazzbrak.github.maps"
-                name="Mazzbrak Mapping"
+                name="Mazzbrak Mapping 2"
                 kind="template"
-		url="https://github.com/joeymazzbrak/mapping-examples/zipball/master"
+		url="https://github.com/katesherwood/mvc-hosting-test/zipball/master"
                 version="5.4.10">
                 <description>
                         Mazzbrak Mapping pins and polygons example
                 </description>
         </descriptor>
-        <project path=""/>
-        <json path="wizard.json"/>
 </template>
