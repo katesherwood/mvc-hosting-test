@@ -1,0 +1,25 @@
+<template>
+        <descriptor id="com.mazzbrak.github.maps.pins"
+                name="Mazzbrak Mapping"
+                kind="template"
+		url="https://github.com/joeymazzbrak/mapping-pins-example/zipball/master"
+                version="5.4.10">
+                <description>
+                        Mazzbrak Mapping pins example
+                </description>
+        </descriptor>
+        <project path=""/>
+        <json path="wizard.json"/>
+
+        <descriptor id="com.mazzbrak.github.maps.polygons"
+                name="Mazzbrak Mapping"
+                kind="template"
+		url="https://github.com/joeymazzbrak/mapping-polygons-example/zipball/master"
+                version="1.0.3">
+                <description>
+                        Mazzbrak Mapping polygons example
+                </description>
+        </descriptor>
+        <project path=""/>
+        <json path="wizard.json"/>
+</template>
