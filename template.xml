@@ -8,4 +8,6 @@
                         Mazzbrak Mapping pins and polygons example
                 </description>
         </descriptor>
+	<project path=""/>
+        <json path="wizard.json"/>
 </template>
